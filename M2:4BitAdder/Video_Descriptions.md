@@ -2,6 +2,6 @@
 
 4 Bit Adder - Circuit Design Overview
 
-[![4 Bit Adder - LTSpice Design Overview](https://img.youtube.com/vi/jopP2o-IWkw.jpg)](https://www.youtube.com/watch?v=jopP2o-IWkw)
+[![4 Bit Adder - LTSpice Design Overview](https://img.youtube.com/vi/jopP2o-IWkw/0.jpg)](https://www.youtube.com/watch?v=jopP2o-IWkw)
 
 4 Bit Adder - LTSpice Design Overview

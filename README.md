@@ -4,6 +4,6 @@ This Repository contains the Schematics, Diagrams, Datasheets, and physical circ
 
   Milestone 1: Transistor and Diode AND/OR Gates (8 LTSpice Schematics, 12 Phys. Circuit Photos) <br>
   Milestone 2: 4-Bit Adder (3 LTSpice Schematics, 1 KiCad Schematic, 2 Explanation Videos, 3 Phys. Circuit Photos) <br>
-  Milestone 3: 8-Bit Adder/Subtractor (2 Explanation Videos, 2 Phys. Circuit Photos)
-  Milestone 4: Wheatstone Bridge (2 Explanation Videos, 2 LTSpice Schematics, 2 Phys. Circuit Photos)
+  Milestone 3: 8-Bit Adder/Subtractor (2 Explanation Videos, 2 Phys. Circuit Photos) <br>
+  Milestone 4: Wheatstone Bridge (2 Explanation Videos, 3 LTSpice Schematics, 2 Phys. Circuit Photos, 1 Graph) <br>
   Milestone 5: Wheatstone + Op-Amp (2 Explanation Videos, 2 LTSpice Schematics, 2 Phys. Circuit Photos)

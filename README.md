@@ -6,5 +6,5 @@ This Repository contains the Schematics, Diagrams, Datasheets, and physical circ
   Milestone 2: 4-Bit Adder (2 Explanation Videos, 3 LTSpice Schematics, 1 KiCad Schematic, 3 Phys. Circuit Photos) <br>
   Milestone 3: 8-Bit Adder/Subtractor (2 Explanation Videos, 2 Phys. Circuit Photos) <br>
   Milestone 4: Wheatstone Bridge (2 Explanation Videos, 3 LTSpice Schematics, 2 Phys. Circuit Photos, 1 Graph) <br>
-  Milestone 5: Wheatstone + Op-Amp (2 Explanation Videos, 2 LTSpice Schematics, 2 Phys. Circuit Photos)
+  Milestone 5: Wheatstone + Op-Amp (2 Explanation Videos, 2 LTSpice Schematics, 2 Phys. Circuit Photos) <br>
   Milestone 6: Light Sensor + ADC (1 Explanation Video, 1 KiCad schematic)

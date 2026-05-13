@@ -1,14 +1,10 @@
 This Repository contains the Schematics, Diagrams, Datasheets, and physical circuit images that demonstrate the incremental development of our ALU/Light Sensor.
 
-## As of 05/10/2026, this repository contains the following:
+## Final Design Walkthrough
 
-  Milestone 1: Transistor and Diode AND/OR Gates (8 LTSpice Schematics, 12 Phys. Circuit Photos) <br>
-  Milestone 2: 4-Bit Adder (2 Explanation Videos, 3 LTSpice Schematics, 1 KiCad Schematic, 3 Phys. Circuit Photos) <br>
-  Milestone 3: 8-Bit Adder/Subtractor (2 Explanation Videos, 2 Phys. Circuit Photos) <br>
-  Milestone 4: Wheatstone Bridge (2 Explanation Videos, 3 LTSpice Schematics, 2 Phys. Circuit Photos, 1 Graph) <br>
-  Milestone 5: Wheatstone + Op-Amp (2 Explanation Videos, 2 LTSpice Schematics, 2 Phys. Circuit Photos) <br>
-  Milestone 6: Light Sensor + ADC (1 Explanation Video, 1 KiCad schematic, 1 Phys. Circuit Photo) <br>
-  Milestone 7: IN-PROGRESS <br>
+<div align="center">
+  [![Photoelectric Light | In-Depth Final Design Walk-through](https://img.youtube.com/vi/0zVFKIAk-kY/0.jpg)](https://www.youtube.com/watch?v=0zVFKIAk-kY)
+</div>
 
 ## Timeline (Milestone 1 - Milestone 7)
 
@@ -20,6 +16,15 @@ This Repository contains the Schematics, Diagrams, Datasheets, and physical circ
 
 <div align="center">
     M7: Photoelectric Light
-
-  [![Photoelectric Light | In-Depth Final Design Walk-through](https://img.youtube.com/vi/0zVFKIAk-kY/0.jpg)](https://www.youtube.com/watch?v=0zVFKIAk-kY)
+  <img src="https://github.com/rbradleyrau-creator/CPUDesignProject/blob/main/M7%3A_PhotoelectricLight/CircuitPhotos/FinalCircuit.jpg" width="300" height="300" alt="Final Circuit Image"> 
 </div>
+
+## As of 05/10/2026, this repository contains the following:
+
+  Milestone 1: Transistor and Diode AND/OR Gates (8 LTSpice Schematics, 12 Phys. Circuit Photos) <br>
+  Milestone 2: 4-Bit Adder (2 Explanation Videos, 3 LTSpice Schematics, 1 KiCad Schematic, 3 Phys. Circuit Photos) <br>
+  Milestone 3: 8-Bit Adder/Subtractor (2 Explanation Videos, 2 Phys. Circuit Photos) <br>
+  Milestone 4: Wheatstone Bridge (2 Explanation Videos, 3 LTSpice Schematics, 2 Phys. Circuit Photos, 1 Graph) <br>
+  Milestone 5: Wheatstone + Op-Amp (2 Explanation Videos, 2 LTSpice Schematics, 2 Phys. Circuit Photos) <br>
+  Milestone 6: Light Sensor + ADC (1 Explanation Video, 1 KiCad schematic, 1 Phys. Circuit Photo) <br>
+  Milestone 7: Photoelectric Light (1 Explanation Video, 1 KiCad schematic, 4 Phys. Circuit Photo) <br>

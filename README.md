@@ -3,7 +3,9 @@ This Repository contains the Schematics, Diagrams, Datasheets, and physical circ
 ## Final Design Walkthrough
 
 <div align="center">
-  [![Photoelectric Light | In-Depth Final Design Walk-through](https://img.youtube.com/vi/0zVFKIAk-kY/0.jpg)](https://www.youtube.com/watch?v=0zVFKIAk-kY)
+  
+   [![Photoelectric Light | In-Depth Final Design Walk-through](https://img.youtube.com/vi/0zVFKIAk-kY/0.jpg)](https://www.youtube.com/watch?v=0zVFKIAk-kY)
+   
 </div>
 
 ## Timeline (Milestone 1 - Milestone 7)
@@ -15,11 +17,11 @@ This Repository contains the Schematics, Diagrams, Datasheets, and physical circ
 | <img src="https://github.com/rbradleyrau-creator/CPUDesignProject/blob/main/M4%3A_Photoresistor%2BWheatstoneBridge/Photos/Circuit.jpg" width="300" height="300" alt="Wheatstone Bridge Circuit Image"> | <img src="https://github.com/rbradleyrau-creator/CPUDesignProject/blob/main/M5%3A_WheatstoneBridge%2BOpAmp/Photos/Wheatstone%2BOpAmp_PartialCircuit.jpg" width="300" height="300" alt="Op-Amp + Wheatstone Image"> | <div align="center"> <img src="https://github.com/rbradleyrau-creator/CPUDesignProject/blob/main/M6%3A_LightSensor--%3EADC/LightSensor%2BADC.jpg" width="100" height="300" alt="Circuit image containing an Wheatstone Bridge, Op-Amp, and an ADC"> </div> |
 
 <div align="center">
-    M7: Photoelectric Light
-  <img src="https://github.com/rbradleyrau-creator/CPUDesignProject/blob/main/M7%3A_PhotoelectricLight/CircuitPhotos/FinalCircuit.jpg" width="300" height="300" alt="Final Circuit Image"> 
+    M7: Photoelectric Light <br>
+  <img src="https://github.com/rbradleyrau-creator/CPUDesignProject/blob/main/M7%3A_PhotoelectricLight/CircuitPhotos/FinalCircuit.jpg" width="300" height="400" alt="Final Circuit Image"> 
 </div>
 
-## As of 05/10/2026, this repository contains the following:
+## As of 05/12/2026, this repository contains the following:
 
   Milestone 1: Transistor and Diode AND/OR Gates (8 LTSpice Schematics, 12 Phys. Circuit Photos) <br>
   Milestone 2: 4-Bit Adder (2 Explanation Videos, 3 LTSpice Schematics, 1 KiCad Schematic, 3 Phys. Circuit Photos) <br>

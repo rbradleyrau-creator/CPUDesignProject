@@ -20,4 +20,6 @@ This Repository contains the Schematics, Diagrams, Datasheets, and physical circ
 
 <div align="center">
     M7: Photoelectric Light
+
+  [![Photoelectric Light | In-Depth Final Design Walk-through](https://img.youtube.com/vi/0zVFKIAk-kY/0.jpg)](https://www.youtube.com/watch?v=0zVFKIAk-kY)
 </div>

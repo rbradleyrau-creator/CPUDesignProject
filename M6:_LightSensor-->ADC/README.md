@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Milestone 6 | Video Overviews
+  # Milestone 6 | Video Overview
   
   [![4 Bit Adder - Circuit Design Overview](https://img.youtube.com/vi/BVuaEsHAups/0.jpg)](https://www.youtube.com/watch?v=BVuaEsHAups)
   
